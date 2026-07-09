@@ -4,6 +4,8 @@ function Home() {
 	return (
 		<>
 				Home
+				and 
+				hi
 		</>
 	)
 }
