@@ -66,7 +66,7 @@ const styles = {
 		width: '100%',
 		height: '78%',
 		borderRadius: '50%',
-		border: '10px solid #FF6A3D',
+		border: '10px solid red',
 		boxSizing: 'border-box',
 		position: 'relative',
 	},
@@ -86,7 +86,7 @@ const styles = {
 	button: {
 		display: 'inline-block',
 		padding: '12px 28px',
-		background: '#FF6A3D',
+		background: 'red',
 		color: '#0B0C10',
 		fontWeight: 600,
 		fontSize: '14px',
